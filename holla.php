@@ -1,3 +1,5 @@
 <?php
-echo 'holla bitches';
+//echo 'holla bitches';
+echo "test";
+
 ?>
